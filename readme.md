@@ -36,3 +36,9 @@
 
 3. Run `main.py` or `multi_patient.py`
 4. If the script returns with error,  check the dependences and try install dependences manually.
+
+## Contributors
+
+- Joe Rinehart, MD
+- Kaiwen Yu
+- Mirana C. Angel
