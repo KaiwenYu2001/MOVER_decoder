@@ -39,6 +39,6 @@
 
 ## Contributors
 
-- Joe Rinehart, MD
+- Joseph Rinehart, MD
 - Kaiwen Yu
 - Mirana C. Angel
