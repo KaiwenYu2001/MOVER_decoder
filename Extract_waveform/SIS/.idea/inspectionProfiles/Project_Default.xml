@@ -1,0 +1,43 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyCompatibilityInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ourVersions">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="2.7" />
+            <item index="1" class="java.lang.String" itemvalue="3.9" />
+            <item index="2" class="java.lang.String" itemvalue="3.11" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="19">
+            <item index="0" class="java.lang.String" itemvalue="xml.etree.ElementTree" />
+            <item index="1" class="java.lang.String" itemvalue="matplotlib.pyplot" />
+            <item index="2" class="java.lang.String" itemvalue="pprint" />
+            <item index="3" class="java.lang.String" itemvalue="os" />
+            <item index="4" class="java.lang.String" itemvalue="BernoulliXML_Tools_Only" />
+            <item index="5" class="java.lang.String" itemvalue="datatime" />
+            <item index="6" class="java.lang.String" itemvalue="csv" />
+            <item index="7" class="java.lang.String" itemvalue="base64" />
+            <item index="8" class="java.lang.String" itemvalue="Help_Function" />
+            <item index="9" class="java.lang.String" itemvalue="multiprocessing" />
+            <item index="10" class="java.lang.String" itemvalue="sys" />
+            <item index="11" class="java.lang.String" itemvalue="enum" />
+            <item index="12" class="java.lang.String" itemvalue="collections" />
+            <item index="13" class="java.lang.String" itemvalue="shutil" />
+            <item index="14" class="java.lang.String" itemvalue="math" />
+            <item index="15" class="java.lang.String" itemvalue="gc" />
+            <item index="16" class="java.lang.String" itemvalue="datetime" />
+            <item index="17" class="java.lang.String" itemvalue="torch" />
+            <item index="18" class="java.lang.String" itemvalue="numpy" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
