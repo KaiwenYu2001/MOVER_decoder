@@ -76,14 +76,15 @@ def main():
     if not os.path.exists(OUTPUT_DIR):
         print("Make New Dir...\n")
         os.mkdir(OUTPUT_DIR)
-
+    
+    patient_dirs = []
     for starter_PID in os.listdir(INPUT_DIR):
         '''
         This is where this script different from main.py, since it should handle all patients
         '''
         if starter_PID[0] == '.':
             continue
-        patient_dirs = []
+        
         full_dir = os.path.join(INPUT_DIR, starter_PID)
         for PID in os.listdir(full_dir):
             if PID[0] != '.':
